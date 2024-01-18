@@ -1,0 +1,6 @@
+public static double log2(int N)
+{
+  double result = (Math.log(N) / Math.log(2));
+ 
+  return result;
+}
